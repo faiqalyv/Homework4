@@ -63,7 +63,7 @@ iframe{
 .image1{
     width: 550px;
     height: 670px;
-    margin-left: 550px;
+    margin-left: 570px;
     margin-top: -460px;
 }
 .image2{
@@ -73,18 +73,10 @@ iframe{
 }
 .text2{
   margin-top: -358px;
-  margin-left: 570px;
+  margin-left: 572px;
   font-weight: 500px;
 }
 p>a{
     color: black;
 }
-/* p>h3{
-    display:inline-block;
-}
-.a{
-    display: inline-block;
-}
-.a1{
-    display: inline-block;
-} */
+
